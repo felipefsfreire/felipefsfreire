@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipefsfreire
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Data Science
+- 🌱 Learning programming and keeping it here.
 - 📫 Reach me in the
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-freire-406885171/)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipe.freire1983@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521993195675)
